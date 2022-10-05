@@ -1,2 +1,8 @@
-# week-2
-Week 2 Coding Assignment
+<DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> Events </title>
+<head/>
+<html/>
