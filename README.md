@@ -6,6 +6,29 @@
 <title>Events</title>
 <style>
 
+p {
+  border: 1px solid black;
+  margin-bottom: 15px;
+}
+  
+#p1 {
+  background-color: 
+  width: 300px;
+  height: 150px;
+}
+  
+#p2 {
+  background-color: 
+  width: 300px;
+  height: 150px;
+}
+  
+#p3 {
+  background-color: 
+  width: 300px;
+  height: 150px;
+}
+
 * {
   box-sizing: border-box;
 }
